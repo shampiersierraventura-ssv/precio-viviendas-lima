@@ -1,0 +1,11 @@
+# Responsable global del repositorio
+* @shampiersierraventura-ssv
+# Código fuente
+/src/ @shampiersierraventura-ssv
+/scripts/ @shampiersierraventura-ssv
+# Tests
+/tests/ @shampiersierraventura-ssv
+# Documentación
+/docs/ @shampiersierraventura-ssv
+# Workflows y configuración de GitHub
+/.github/ @shampiersierraventura-ssv
